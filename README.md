@@ -49,13 +49,13 @@
     </a>
     <h3 style="margin: 0; margin-top: 5px; text-align:center;">
       <img
-        style="margin: 0; width: 25px;"
+        style="margin: 0; width: 20px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732521919/aocleqgcpuiichu6qtyj.png"
         alt="Airdnd logo"
       />
       Airdnd - inspired by Airbnb
       <img
-        style="margin: 0; width: 25px;"
+        style="margin: 0; width: 20px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732521919/aocleqgcpuiichu6qtyj.png"
         alt="Airdnd logo"
       />
