@@ -101,6 +101,6 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=ValeryVishnevezky&border_radius=10&card_width=380&card_height=100" alt="My Streak" />
 </div>
