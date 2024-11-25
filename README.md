@@ -102,5 +102,5 @@
 ###
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=ValeryVishnevezky&border_radius=10&card_width=380&card_height=100)](https://git.io/streak-stats)" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ValeryVishnevezky&border_radius=10&card_width=380&card_height=100" alt="My Streak" />
 </div>
