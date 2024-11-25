@@ -48,7 +48,7 @@
   <img 
     src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732520342/ippfucy13szrfet10p8x.png" 
     alt="Airdnd" 
-    style="border-radius: 10px; border-style:1px solid #DCDCDC; width: 495px;">
+    style="width: 300px;">
     </a>
     <h3 style="margin: 0; margin-top: 5px; text-align:center;">
       <img
@@ -68,12 +68,12 @@
  <div style="text-align: center; margin-top: 10px;">
     <a href="https://valeryvishnevezky.github.io/AppSus/#/mail" target="_blank">
       <img
-        style="border-radius: 10px; width: 495px; margin-top: 10px;"
+        style="width: 300px; margin-top: 10px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732522610/y8nalzkblaohgkdnjtju.png"
         alt="Apsus"
       />
     </a>
-    <h3 style="margin: 0; margin-top: 5px !important;">
+    <h3 style="margin: 0; margin-top: 5px;">
       <img
         style="margin: 0; width: 100px;"
         src="https://valeryvishnevezky.github.io/AppSus/logo.imgs/logo.png"
@@ -85,7 +85,7 @@
  <div style="text-align: center; margin-top: 10px;">
     <a href="https://valeryvishnevezky.github.io/MissBooks/#/home" target="_blank">
       <img
-        style="border-radius: 10px; width: 495px; margin-top: 10px;"
+        style="border-radius: 10px; width: 300px; margin-top: 10px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732522976/zndjmpvkmshbnb3plopp.png"
         alt="MissBooks"
       />
@@ -102,5 +102,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ValeryVishnevezky&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10&order=3" height="220" alt="streak graph"  />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=ValeryVishnevezky&border_radius=10&card_width=380&card_height=100)](https://git.io/streak-stats)" height="220" alt="streak graph"  />
 </div>
