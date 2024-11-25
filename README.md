@@ -40,15 +40,12 @@
 ###
 
 <h3 align="left">🌐 My projects:</h3>
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
-
-  <div style="text-align: center; margin-top: 10px;">
+  <div align="center" style="text-align: center; margin-top: 10px;">
     <a href="https://airdnd-w3rd.onrender.com" target="_blank">
   <img 
     src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732520342/ippfucy13szrfet10p8x.png" 
     alt="Airdnd" 
-    style="width: 300px;">
+    style="width: 380px;">
     </a>
     <h3 style="margin: 0; margin-top: 5px; text-align:center;">
       <img
@@ -65,10 +62,10 @@
     </h3>
   </div>
 <br>
- <div style="text-align: center; margin-top: 10px;">
+ <div align="center" style="text-align: center; margin-top: 10px;">
     <a href="https://valeryvishnevezky.github.io/AppSus/#/mail" target="_blank">
       <img
-        style="width: 300px; margin-top: 10px;"
+        style="width: 380px; margin-top: 10px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732522610/y8nalzkblaohgkdnjtju.png"
         alt="Apsus"
       />
@@ -82,17 +79,16 @@
     </h3>
   </div>
 <br>
- <div style="text-align: center; margin-top: 10px;">
+ <div align="center" style="text-align: center; margin-top: 10px;">
     <a href="https://valeryvishnevezky.github.io/MissBooks/#/home" target="_blank">
       <img
-        style="border-radius: 10px; width: 300px; margin-top: 10px;"
+        style="border-radius: 10px; width: 380px; margin-top: 10px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732522976/zndjmpvkmshbnb3plopp.png"
         alt="MissBooks"
       />
     </a>
     <h3 style="margin: 0; margin-top: 5px;">📘 Miss Books 📘</h3>
   </div>
-</div>
 <br>
 
 ###
@@ -101,6 +97,6 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=ValeryVishnevezky&border_radius=10&card_width=380&card_height=100" alt="My Streak" />
 </div>
