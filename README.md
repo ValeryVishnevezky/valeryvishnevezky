@@ -79,16 +79,6 @@
     </h3>
   </div>
 <br>
- <div align="center" style="text-align: center; margin-top: 10px;">
-    <a href="https://valeryvishnevezky.github.io/MissBooks/#/home" target="_blank">
-      <img
-        style="border-radius: 10px; width: 380px; margin-top: 10px;"
-        src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732522976/zndjmpvkmshbnb3plopp.png"
-        alt="MissBooks"
-      />
-    </a>
-    <h3 style="margin: 0; margin-top: 5px;">📘 Miss Books 📘</h3>
-  </div>
 <br>
 
 ###
