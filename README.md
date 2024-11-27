@@ -23,7 +23,11 @@
 
 ###
 
-[align="left"![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/valery-vishnevezky-311113335) 
+  <a align="right" href="https://www.linkedin.com/in/valery-vishnevezky-311113335/">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
+    alt="LinkedIn" 
+    </a>
 
 ###
 
