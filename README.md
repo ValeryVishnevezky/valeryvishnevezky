@@ -81,3 +81,12 @@
   </div>
 <br>
 <br>
+
+###
+
+<h3 align="left">🔥Stats :</h3>
+
+###
+
+![ValeryVishnevezky github-trophies](https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky)
+![ValeryVishnevezky github-trophies](https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky)
