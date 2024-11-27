@@ -37,7 +37,7 @@
 
 ###
 
-<h1 align="left">🛠 Technology:</h1>
+<h3 align="left">🛠 Technology:</h3>
 
 ###
 
@@ -55,7 +55,7 @@
  
 ###
 
-<h1 align="left">🌐 My projects:</h1>
+<h3 align="left">🌐 My projects:</h3>
   <div align="left" style="text-align: center; margin-top: 10px;">
     <a href="https://airdnd-w3rd.onrender.com" target="_blank">
   <img 
@@ -99,7 +99,11 @@
 
 ###
 
-<h1 align="left">🔥Stats :</h1>
+<h1 align="center"></h1>
+
+###
+
+<h3 align="left">🔥Stats :</h3>
 
 ###
 
