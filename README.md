@@ -25,7 +25,7 @@
 
 <br>
 
-<h3>
+<h3 align="right">
   <a href="https://www.linkedin.com/in/valery-vishnevezky-311113335/">
     Contacts:
   <img 
