@@ -108,6 +108,6 @@
 ###
 
 <div >
-<span><img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="400" />
-<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" width="100%"/></span>
+<span><img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="400" /></span>
+<span><img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" width="100%"/></span>
 </div>
