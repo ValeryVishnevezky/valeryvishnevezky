@@ -89,8 +89,8 @@
 ###
 
 <div align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="580" alt="stats graph"  />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="480" alt="stats graph" align="center />
   </div>
   <div align="center">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" width="980" alt="stats graph"  />
+  <img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" width="980" alt="stats graph" align="center />
 </div>
