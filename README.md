@@ -35,9 +35,8 @@
 
 ###
 
-###
-
-<h3 align="left">🛠 Technology:</h3>
+<br>
+---
 
 ###
 
