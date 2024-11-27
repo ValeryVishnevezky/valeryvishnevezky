@@ -87,7 +87,8 @@
 <h3 align="left">🔥Stats :</h3>
 
 ###
+
 <div align="center">
-![ValeryVishnevezky github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky)
-![ValeryVishnevezky github-trophies](https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky)
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" height="150" alt="stats graph"  />
+  <img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" height="220" alt="stats graph"  />
 </div>
