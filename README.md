@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi👋 I'm Valery!</h1>
 
 ###
@@ -110,3 +111,4 @@
 </div>
 
 ###
+ </div>
