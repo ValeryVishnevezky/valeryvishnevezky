@@ -81,13 +81,3 @@
   </div>
 <br>
 <br>
-
-###
-
-<h3 align="left">🔥Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ValeryVishnevezky&border_radius=10&card_width=380&card_height=100" alt="My Streak" />
-</div>
