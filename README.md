@@ -37,7 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" width="40" alt="vite logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="node logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" height="40" width="40" alt="nodemon logo"/>
-
+ </div>
+ 
 ###
 
 <h3 align="left">🌐 My projects:</h3>
@@ -88,6 +89,7 @@
 
 ###
 
-<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" width="400" height="200" />
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="800" height="200" />
-
+<div align="center" width="400">
+<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" />
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" />
+</div>
