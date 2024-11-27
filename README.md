@@ -64,15 +64,15 @@
     alt="Airdnd" 
     style="width: 380px;">
     </a>
-    <p style="margin: 0; margin-top: 5px; text-align:center;">
+    <p align="center" style="margin: 0; margin-top: 5px; text-align: center;">
       <img
-        style="margin: 0; width: 20px;"
+        style="margin: 0; width: 15px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732521919/aocleqgcpuiichu6qtyj.png"
         alt="Airdnd logo"
       />
       Airdnd - inspired by Airbnb
       <img
-        style="margin: 0; width: 20px;"
+        style="margin: 0; width: 15px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732521919/aocleqgcpuiichu6qtyj.png"
         alt="Airdnd logo"
       />
@@ -87,13 +87,13 @@
         alt="Apsus"
       />
     </a>
-    <h3 style="margin: 0; margin-top: 5px;">
+    <p align="center" style="margin: 0; margin-top: 5px;">
       <img
-        style="margin: 0; width: 100px;"
+        style="margin: 0; width: 70px;"
         src="https://valeryvishnevezky.github.io/AppSus/logo.imgs/logo.png"
         alt="Apsus logo"
       />
-    </h3>
+    </p>
   </div>
   
 ###
