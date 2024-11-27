@@ -109,5 +109,5 @@
 
 <div >
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="400" />
-<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" height="250" min-width="600"/>
+<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky"/>
 </div>
