@@ -1,4 +1,3 @@
-<div align="center">
 <h1 align="center">Hi👋 I'm Valery!</h1>
 
 ###
@@ -23,7 +22,9 @@
 </ul>
 
 ###
+
 <br>
+
 <h1>
   <a href="https://www.linkedin.com/in/valery-vishnevezky-311113335/">
   <img 
@@ -31,7 +32,7 @@
     alt="LinkedIn" 
     align="right">
   </a>
-  </h1>
+</h1>
 
 
 ###
@@ -109,6 +110,3 @@
 <img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" />
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="450" />
 </div>
-
-###
- </div>
