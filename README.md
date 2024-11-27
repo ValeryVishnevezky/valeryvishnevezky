@@ -62,7 +62,7 @@
   <img 
     src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732520342/ippfucy13szrfet10p8x.png" 
     alt="Airdnd" 
-    style="width: 380px;">
+    style="width: 400px;">
     </a>
     <p style="margin: 0; margin-top: 5px; text-align: center;">
       <img
@@ -82,7 +82,7 @@
  <div align="left" style="text-align: center; margin-top: 10px;">
     <a href="https://valeryvishnevezky.github.io/AppSus/#/mail" target="_blank">
       <img
-        style="width: 380px; margin-top: 10px;"
+        style="width: 400px; margin-top: 10px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732522610/y8nalzkblaohgkdnjtju.png"
         alt="Apsus"
       />
@@ -106,7 +106,7 @@
 
 ###
 
-<div align="left" width="480">
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="480" />
-<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" />
+<div align="left" width="430">
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="430" />
+<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" width="430" />
 </div>
