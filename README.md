@@ -108,5 +108,5 @@
 
 <div align="left" width="430">
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="430" />
-<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" width="430" />
+<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" height="220" />
 </div>
