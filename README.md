@@ -98,11 +98,9 @@
 
 ###
 
-<h1 align="center"></h1>
+<h1></h1>
 
 ###
-
-<br>
 
 <h3 align="left">🔥Stats :</h3>
 
