@@ -107,6 +107,6 @@
 ###
 
 <div align="left" width="480">
-<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" />
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="480" />
+<img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" />
 </div>
