@@ -64,7 +64,7 @@
     alt="Airdnd" 
     style="width: 380px;">
     </a>
-    <h3 style="margin: 0; margin-top: 5px; text-align:center;">
+    <p style="margin: 0; margin-top: 5px; text-align:center;">
       <img
         style="margin: 0; width: 20px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732521919/aocleqgcpuiichu6qtyj.png"
@@ -76,7 +76,7 @@
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732521919/aocleqgcpuiichu6qtyj.png"
         alt="Airdnd logo"
       />
-    </h3>
+    </p>
   </div>
 <br>
  <div align="left" style="text-align: center; margin-top: 10px;">
