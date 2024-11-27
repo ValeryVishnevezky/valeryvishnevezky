@@ -64,7 +64,7 @@
     alt="Airdnd" 
     style="width: 380px;">
     </a>
-    <p align="center" style="margin: 0; margin-top: 5px; text-align: center;">
+    <p style="margin: 0; margin-top: 5px; text-align: center;">
       <img
         style="margin: 0; width: 15px;"
         src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732521919/aocleqgcpuiichu6qtyj.png"
@@ -87,7 +87,7 @@
         alt="Apsus"
       />
     </a>
-    <p align="center" style="margin: 0; margin-top: 5px;">
+    <p style="margin: 0; margin-top: 5px;">
       <img
         style="margin: 0; width: 70px;"
         src="https://valeryvishnevezky.github.io/AppSus/logo.imgs/logo.png"
