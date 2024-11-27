@@ -23,6 +23,10 @@
 
 ###
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/valery-vishnevezky-311113335) 
+
+###
+
 <h3 align="left">🛠 Technology:</h3>
 
 ###
@@ -93,3 +97,5 @@
 <img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" />
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="400" />
 </div>
+
+###
