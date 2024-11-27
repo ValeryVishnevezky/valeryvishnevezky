@@ -23,10 +23,11 @@
 
 ###
 
-  <a align="right" href="https://www.linkedin.com/in/valery-vishnevezky-311113335/">
+  <a href="https://www.linkedin.com/in/valery-vishnevezky-311113335/">
   <img 
     src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
     alt="LinkedIn" 
+    align="right"
     </a>
 
 ###
@@ -35,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"/>
@@ -50,7 +51,7 @@
 ###
 
 <h3 align="left">🌐 My projects:</h3>
-  <div align="center" style="text-align: center; margin-top: 10px;">
+  <div align="left" style="text-align: center; margin-top: 10px;">
     <a href="https://airdnd-w3rd.onrender.com" target="_blank">
   <img 
     src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732520342/ippfucy13szrfet10p8x.png" 
@@ -72,7 +73,7 @@
     </h3>
   </div>
 <br>
- <div align="center" style="text-align: center; margin-top: 10px;">
+ <div align="left" style="text-align: center; margin-top: 10px;">
     <a href="https://valeryvishnevezky.github.io/AppSus/#/mail" target="_blank">
       <img
         style="width: 380px; margin-top: 10px;"
@@ -97,9 +98,9 @@
 
 ###
 
-<div align="center" width="400">
+<div align="left" width="400">
 <img src="https://stats.dooboo.io/api/github-trophies?login=ValeryVishnevezky" />
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="400" />
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=ValeryVishnevezky" width="450" />
 </div>
 
 ###
