@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  I'm a Junior Full Stack Developer. My journey began at Coding Academy, where I gained solid knowledge in both frontend and backend development. This comprehensive training laid the foundation for my skills in building modern web applications.
+  I'm a Full Stack Developer. My journey began at Coding Academy, where I gained solid knowledge in both frontend and backend development. This comprehensive training laid the foundation for my skills in building modern web applications.
 </p>
 
 <p align="left">
