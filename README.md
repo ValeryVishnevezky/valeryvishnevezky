@@ -61,7 +61,7 @@
 
 <h3 align="left">🌐 My projects:</h3>
   <div align="left" style="text-align: center; margin-top: 10px;">
-    <a href="https://airdnd-w3rd.onrender.com" target="_blank">
+    <a href="https://airdnd-qh02.onrender.com/stay" target="_blank">
   <img 
     src="https://res.cloudinary.com/dycvqhve0/image/upload/v1732520342/ippfucy13szrfet10p8x.png" 
     alt="Airdnd" 
