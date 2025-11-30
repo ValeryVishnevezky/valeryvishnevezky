@@ -93,7 +93,7 @@
     <p style="margin: 0; margin-top: 5px;">
       <img
         style="margin: 0; width: 70px;"
-        src="https://valeryvishnevezky.github.io/AppSus/logo.imgs/logo.png"
+        src="http://res.cloudinary.com/dycvqhve0/image/upload/v1764484948/gtd9ir5mkdjctrajvpdy.png"
         alt="Apsus logo"
       />
     </p>
