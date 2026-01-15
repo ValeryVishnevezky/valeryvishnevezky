@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  On the frontend, I work with JavaScript, HTML, and CSS, leveraging frameworks like React, Angular, and Vue. On the backend, I specialize in Node.js, REST APIs, and Sockets to develop reliable and scalable applications.
+  On the frontend, I work with JavaScript, HTML, CSS, Next, and frameworks like React, Angular, and Vue. On the backend, I specialize in Node.js, Express, Hono, REST APIs, JWT and Sockets to develop reliable and scalable applications.
 </p>
 
 <h3>📌 Highlights:</h3>
